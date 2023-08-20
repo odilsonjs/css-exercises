@@ -1,4 +1,8 @@
-button{
-    font-size: 18px;
-    background-color: orange;
+div{
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+
 }
