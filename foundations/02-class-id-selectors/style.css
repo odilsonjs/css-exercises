@@ -1,0 +1,22 @@
+*{
+    font-family: verdana, sans-serif;
+
+}
+.first{
+    background-color: pink;
+}
+
+#second{
+    color: blue;
+    font-size: 36px;
+}
+
+.just-font-size{
+    font-size: 24px;
+}
+
+#fourth{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
